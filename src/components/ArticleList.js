@@ -22,4 +22,4 @@ ArticleList.propTypes = {
   toggleArticleSelection: PropTypes.func.isRequired,
 };
 
-export default ArticleList;
+export default ArticleList; 
